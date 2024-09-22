@@ -1,6 +1,5 @@
 ## `Ndlovu Drone Shop - Spring Boot Application`
-# WESTERN GOVERNORS UNIVERSITY 
-## D287 – JAVA FRAMEWORKS
+# JAVA FRAMEWORKS
 
 ## Project Scope 
 A fictional company has been created for a customer who is passionate about flying drones for activities such as aerial photography and exploring locations inaccessible to humans. Their enthusiasm led them to start a business that not only sells drones and accessories but also offers blogs to help fellow drone enthusiasts select the right equipment for any task or adventure.
